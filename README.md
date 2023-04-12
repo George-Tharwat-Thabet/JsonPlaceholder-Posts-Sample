@@ -77,5 +77,3 @@ I would like to acknowledge the following resources that were used in the develo
 - [Retrofit Documentation](https://square.github.io/retrofit/) for the comprehensive documentation on using Retrofit for RESTful API calls.
 - [Android Developer Documentation](https://developer.android.com/docs) for the official documentation on Android app development, including RecyclerView, MVVM architecture, and LiveData.
 - [Stack Overflow](https://stackoverflow.com/) for the community-driven support and insights provided by fellow developers.
-
-## <img src="Pictures/jsonplaceholder_app.png">
